@@ -1,0 +1,5 @@
+FirstName,MiddleName,LastName,UserName,Password,RoleID,DOB,Gender,State,District,Village/City,MobileNo,AltMobileNo,Email
+Tina,R,Patel,tina@123,admin@123,2,20-12-2021,F,1,1,1,9898989898,78787878778,tina123@gmail.com
+Mina,R,Patel,mina@123,admin@123,1,20-12-2021,F,1,1,1,9898989898,78787878778,mina123@gmail.com
+Mohan,K,Patel,mohan@123,admin@123,1,20-12-2021,M,1,1,1,9898989898,78787878778,mohan123@gmail.com
+Rohan,K,Patel,rohan@123,admin@123,1,20-12-2021,M,1,1,1,9898989898,78787878778,rohan123@gmail.com

@@ -1,0 +1,6 @@
+FirstName,MiddleName,LastName,UserName,Password,RoleID,DOB,Gender,State,District,Village/City,MobileNo,AltMobileNo,Email
+Tina,Ravi,Desai,tina@123,admin@123,2,20-12-2021,Female,1,1,1,9898989898,78787878778,tina123@gmail.com
+Mina,R,Patel,mina@123,admin@123,1,20-12-2021,Female,1,1,1,9898989898,78787878778,mina123@gmail.com
+Mohan,Bharatbhai,Patel,mohan@123,admin@123,2,20-12-2021,Male,1,1,1,9898989898,78787878778,mohan123@gmail.com
+Rohan,K,Patel,rohan@123,admin@123,2,20-12-2021,Male,1,1,1,9898989898,78787878778,rohan123@gmail.com
+Nirmali,Kishan,Vyash,nirmaki1234,nimali23#,2,20-12-1998,Transgender,2,2,2,9897979797,7878787878,nirmall123@gmail.com
